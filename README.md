@@ -1,4 +1,4 @@
-# react-firebase-auth
+# react-firebase-auth-app
 
 This project implements basic Firebase authentication in React. 
 
