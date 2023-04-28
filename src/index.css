@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.login {
+  width: 382px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background: #569DAA;
+  border-radius: 15px;
+
+}
+
+h2, footer {
+  text-align: center;
+  color: #569DAA;
+}
+
+label {
+  color: #B9EDDD;
+  font-size: 17px;
+}
+
+#email {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+#password {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+#login {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 7px;
+  color: #87CBB9;
+}
+
+#login:active {
+  background-color: rgb(123, 180, 17);
+}
+
+span {
+  color: white;
+  font-size: 17px;
+}
